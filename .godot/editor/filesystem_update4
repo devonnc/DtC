@@ -1,1 +1,5 @@
 res://area_2d.tscn
+res://mob.gd
+res://mob.tscn
+res://Main.gd
+res://player.tscn
