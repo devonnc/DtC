@@ -1,10 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1699045974
-area_2d.tscn::PackedScene::2220341607123120510::1699045974::0::1::::<><>::uid://d2ji3rxrgxl7q::::res://art/playerGrey_up1.png<>res://player.gd<>uid://6hdmy8nuo2ec::::res://art/playerGrey_up2.png<>uid://dujmpxb0itgs2::::res://art/playerGrey_walk1.png<>uid://c2nsx7wmdjy83::::res://art/playerGrey_walk2.png
+::res://::1702684916
 icon.svg::CompressedTexture2D::5109846405071121492::1697145029::1698966944::1::::<><>::
+Main.gd::GDScript::-1::1702678400::0::1::::<>Node<>::
+main.tscn::PackedScene::7069939551238953923::1702678400::0::1::::<><>::uid://6vsx4movhjtm::::res://player.tscn
 mob.gd::GDScript::-1::1699045974::0::1::::<>RigidBody2D<>::
-mob.tscn::PackedScene::7537457521390180813::1699045974::0::1::::<><>::res://mob.gd<>uid://cvbtn27ifg5ba::::res://art/enemyFlyingAlt_1.png<>uid://61tmw2t6ky01::::res://art/enemyFlyingAlt_2.png<>uid://l0yd0foo26w8::::res://art/enemySwimming_1.png<>uid://cbll66f5im33j::::res://art/enemySwimming_2.png<>uid://dwtkot0km4iex::::res://art/enemyWalking_1.png<>uid://lhb4aaib8m3t::::res://art/enemyWalking_2.png
+mob.tscn::PackedScene::7537457521390180813::1702678105::0::1::::<><>::res://mob.gd<>uid://cvbtn27ifg5ba::::res://art/enemyFlyingAlt_1.png<>uid://61tmw2t6ky01::::res://art/enemyFlyingAlt_2.png<>uid://l0yd0foo26w8::::res://art/enemySwimming_1.png<>uid://cbll66f5im33j::::res://art/enemySwimming_2.png<>uid://dwtkot0km4iex::::res://art/enemyWalking_1.png<>uid://lhb4aaib8m3t::::res://art/enemyWalking_2.png
 player.gd::GDScript::-1::1698779363::0::1::::<>Area2D<>::
+player.tscn::PackedScene::2220341607123120510::1702678105::0::1::::<><>::res://player.gd<>uid://d2ji3rxrgxl7q::::res://art/playerGrey_up1.png<>uid://6hdmy8nuo2ec::::res://art/playerGrey_up2.png<>uid://dujmpxb0itgs2::::res://art/playerGrey_walk1.png<>uid://c2nsx7wmdjy83::::res://art/playerGrey_walk2.png
 README.md::TextFile::-1::1698966718::0::1::::<><>::
 ::res://art/::1698966944
 enemyFlyingAlt_1.png::CompressedTexture2D::6250049767656899226::1697145144::1698966944::1::::<><>::

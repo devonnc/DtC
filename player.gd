@@ -49,4 +49,4 @@ func start(pos):
 	position = pos
 	show()
 	$CollisionShape2D.disabled = false
-	pass # Replace with function body.
+	
